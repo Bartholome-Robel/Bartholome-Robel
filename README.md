@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awerudev&show_icons=true&locale=en&layout=compact" alt="awerudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awerudev&show_icons=true&locale=en" alt="awerudev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awerudev&" alt="awerudev" /></p>
